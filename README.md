@@ -8,10 +8,10 @@
  3. 보스 
  4. 튜토리얼
  
-**포트폴리오 관련링크**
-- 깃허브주소 : https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts
-- 블로그주소 : https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업
-- 동영상주소 : https://youtu.be/NtnUvzqz1Y4
+**포트폴리오 관련 링크**
+- [깃허브](https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
+- [블로그](https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업 "클릭하시면 해당 포트폴리오의 블로그로 이동합니다.")
+- [동영상](https://youtu.be/NtnUvzqz1Y4 "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
 
 
 ---
@@ -24,10 +24,8 @@
  3. 게임프레임워크(Z-Order / 데이터관리(INI) / 사운드매니저 / 씬매니저)
 
  
-**포트폴리오 관련주소**
-- 깃허브주소 : https://github.com/lmharriet/CopyWizard.git
-- [블로그주소](http://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29)
-- 동영상주소 : https://youtu.be/dTl59nt_flY
+**포트폴리오 관련 링크**
+- [깃허브](https://github.com/lmharriet/CopyWizard.git "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
+- [블로그](http://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29 "클릭하시면 해당 포트폴리오의 블로그로 이동합니다.")
+- [동영상](https://youtu.be/dTl59nt_flY "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
 ---
-[why?](http://www.google.com)
-
