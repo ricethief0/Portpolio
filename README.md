@@ -8,5 +8,5 @@
  
 - 포트폴리오 관련주소
 - 깃허브주소 : https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts
-- 블로그주소 : https://study-progmming.tistory.com/category/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/CUDA%28Unity%29_기획팀협업
+- 블로그주소 : https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업
 - 동영상주소 : https://youtu.be/NtnUvzqz1Y4
