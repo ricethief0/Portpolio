@@ -30,3 +30,4 @@
 - 동영상주소 : https://youtu.be/dTl59nt_flY
 ---
 [why?](http://www.google.com)
+[블로그주소](http://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29)
