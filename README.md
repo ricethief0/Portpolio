@@ -8,10 +8,10 @@
  3. 보스 
  4. 튜토리얼
  
-**포트폴리오 관련주소**
-- 깃허브주소 : https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts
-- 블로그주소 : https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업
-- 동영상주소 : https://youtu.be/NtnUvzqz1Y4
+**포트폴리오 관련링크**
+- [깃허브주소] (https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts)
+- [블로그주소]  (https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업)
+- [동영상주소]  (https://youtu.be/NtnUvzqz1Y4)
 ---
 
 ## Win API 2D 로그라이크 위자드오브레전드(모작)
@@ -23,7 +23,7 @@
 
  
 **포트폴리오 관련주소**
-- 깃허브주소 : https://github.com/lmharriet/CopyWizard.git
-- 블로그주소 : https://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29
-- 동영상주소 : https://youtu.be/dTl59nt_flY
+- [깃허브주소] : (https://github.com/lmharriet/CopyWizard.git)
+- [블로그주소] : (https://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29)
+- [동영상주소] : (https://youtu.be/dTl59nt_flY)
 ---
