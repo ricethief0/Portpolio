@@ -9,9 +9,9 @@
  4. 튜토리얼
  
 **포트폴리오 관련링크**
-- [깃허브주소]  
-- [블로그주소]  (https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업)
-- [동영상주소]  (https://youtu.be/NtnUvzqz1Y4)
+ [깃허브주소]  
+ [블로그주소]  (https://study-progmming.tistory.com/category/팀프로젝트/CUDA%28Unity%29_기획팀협업)
+ [동영상주소]  (https://youtu.be/NtnUvzqz1Y4)
 [깃허브주소] : https://github.com/Peepbo/Unity3D-RPG-project/tree/main/Unity3D%20RPG/Assets/Scripts "이 포트폴리오와 관련된 깃허브 Repositories로 이동합니다."
 
 ---
