@@ -22,7 +22,7 @@
  3. 게임프레임워크(Z-Order / 데이터관리(INI) / 사운드매니저 / 씬매니저)
 
  
- - 포트폴리오 관련주소
+ 포트폴리오 관련주소
 - 깃허브주소 : https://github.com/lmharriet/CopyWizard.git
 - 블로그주소 : https://study-progmming.tistory.com/category/팀프로젝트/WizardOfLegend_모작%28WIN32%20API%29
 - 동영상주소 : https://youtu.be/dTl59nt_flY
