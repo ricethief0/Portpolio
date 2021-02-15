@@ -40,5 +40,5 @@
  
 **포트폴리오 관련 링크**
 - [깃허브](https://github.com/ricethief0/Unreal_3DShooting/tree/main/Shooting3D/Source/Shooting3D "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
-- [동영상](https://youtu.be/xAiMD8RO0hc "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
+- [동영상](https://youtu.be/oOKE67dZ_yw "클릭하시면 해당 포트폴리오의 깃허브로 이동합니다.")
 ---
