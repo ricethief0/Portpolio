@@ -1,5 +1,5 @@
 # 포트폴리오 정리문서
-[기술문서](https://drive.google.com/file/d/14Mo1lp0AHqTvlVwypRvOO_BQE2_plj_W/view?usp=sharing)
+[기술문서](https://drive.google.com/file/d/1x4opdTj-l2FC9hdzLsh21hK0DP1HyCQf/view?usp=sharing)
 ## 유니티 3D 로그라이크 앵그리소울즈(창작) / 기획팀협업
 
 **담당 작업**
